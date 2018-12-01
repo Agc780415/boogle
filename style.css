@@ -4,10 +4,8 @@ body
   }
 
  .cornisa
-  {background-color:;
-         float:right;
-        margin-right:auto;
-        width:;
+  { float:right;
+    margin-right:auto;
   }
 
  .bot
@@ -49,7 +47,6 @@ body
 .faldon2
  {float:right;
  margin-right:auto;
- width:;
  background-color:#F2F2F2;
  width: 100%;
  height:50px;
@@ -88,8 +85,7 @@ body
  font-size: 14px;
  color: #828282;
  background-color: #F7F7F7;
- border:;
- text-align: left; 10px;
+ text-align: left;
  }
 
 .boton-personalizado:hover
@@ -104,7 +100,6 @@ body
  font-size: 14px;
  color: #828282;
  background-color: #F7F7F7;
- border:;
  }
 
 .boton-personalizado1:hover
@@ -156,5 +151,3 @@ body
  position: relative;
  right: -60%;
  bottom:-30%;}
-
- }
